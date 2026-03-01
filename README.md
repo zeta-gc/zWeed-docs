@@ -10,5 +10,5 @@ Welcome to the documentation portal for Zeta Development scripts. Here you can f
 
 ## General Links
 
-* [Discord Support](https://discord.gg/yourlink)
-* [Store](https://yourstore.tebex.io)
+* [Discord Support](https://discord.gg/ShKaBF7455)
+* [Store](https://zshop-webstore.tebex.io/)

@@ -22,7 +22,7 @@ Config.Locale = 'en'  -- 'en' or 'it'
 
 Add new locales by creating `locales/xx.lua`.
 
-## Growth Settings
+## Growth Settings.
 
 | Setting | Default | Description |
 |---|---|---|

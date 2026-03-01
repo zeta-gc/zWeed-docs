@@ -5,6 +5,10 @@ Welcome to the official documentation for **zWeed**, a fully-featured weed growi
 ## Key Features
 
 - 🌱 **Complete Plant Lifecycle** — Planting, watering, soil, fertilizer, growth stages, and harvesting
+- ⚡ **Extreme Optimization**:
+  - **Frustum Culling**: Entities are dynamically rendered only when visible on-screen to save client resources
+  - **Update Batching**: Server payload optimizations bundle events cleanly to reduce network strain
+  - **True Procedural Animations**: No rigid prop-swapping; plants scale smoothly using real skeletal animations
 - 🎮 **Interactive Minigames** — Scissors harvesting, fertilizer spraying, drag-and-drop packing
 - ⚙️ **Modular Bridge System** — Drop-in support for multiple inventories, frameworks, and UI libraries
 - 🌍 **Localization** — Full English and Italian translations, easily extensible

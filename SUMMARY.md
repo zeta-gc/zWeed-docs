@@ -17,4 +17,4 @@
     * [📚 Exports](zweed/api-reference.md)
   * [❓ Support](zweed/faq.md)
     * [🛠️ Troubleshooting](zweed/troubleshooting.md)
-* [🚀 More coming soon...](https://discord.gg/)
+* [🚀 More coming soon...](https://discord.gg/ShKaBF7455)
