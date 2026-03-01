@@ -1,7 +1,10 @@
 # Zeta Development Hub
 
 * [Welcome](./README.md)
-* [zWeed](./zweed/introduction.md)
+
+## zWeed
+
+* [Introduction](./zweed/introduction.md)
 * [Requirements](./zweed/requirements.md)
 * [Installation](./zweed/installation.md)
 * [Items Configuration](./zweed/items.md)
@@ -17,4 +20,5 @@
   * [API Reference](./zweed/api-reference.md)
 * [Support](./zweed/faq.md)
   * [Troubleshooting](./zweed/troubleshooting.md)
-* [More coming soon...](https://discord.gg/)
+
+## More coming soon...
