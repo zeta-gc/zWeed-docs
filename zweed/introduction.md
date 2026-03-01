@@ -13,6 +13,6 @@ Welcome to the official documentation for **zWeed**, a fully-featured weed growi
 
 ## Getting Started
 
-1. [Requirements](requirements.md) — What you need before installing
-2. [Installation](installation.md) — Step-by-step setup guide
-3. [Configuration](configuration.md) — Customize everything in one file
+1. [Requirements](./requirements.md) — What you need before installing
+2. [Installation](./installation.md) — Step-by-step setup guide
+3. [Configuration](./configuration.md) — Customize everything in one file
