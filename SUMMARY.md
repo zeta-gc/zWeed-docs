@@ -2,9 +2,7 @@
 
 * [Welcome](./README.md)
 
----
-
-### zWeed
+## zWeed
 
 * [Introduction](./zweed/introduction.md)
 * [Requirements](./zweed/requirements.md)
@@ -12,9 +10,7 @@
 * [Items Configuration](./zweed/items.md)
 * [Configuration](./zweed/configuration.md)
 
----
-
-### Bridge System
+## Bridge System
 
 * [Overview](./zweed/bridges/README.md)
 * [Inventory](./zweed/bridges/inventory.md)
@@ -23,21 +19,15 @@
 * [Framework](./zweed/bridges/framework.md)
 * [Skills](./zweed/bridges/skills.md)
 
----
-
-### API & Development
+## API & Development
 
 * [Events Reference](./zweed/events.md)
 * [API Reference](./zweed/api-reference.md)
 * [Developer Guide](./zweed/developer-guide.md)
 
----
-
-### Support
+## Support
 
 * [FAQ](./zweed/faq.md)
 * [Troubleshooting](./zweed/troubleshooting.md)
 
----
-
-### More coming soon...
+## More coming soon...
