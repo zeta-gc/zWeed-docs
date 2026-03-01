@@ -9,6 +9,7 @@
 * [Introduction](./zweed/introduction.md)
 * [Requirements](./zweed/requirements.md)
 * [Installation](./zweed/installation.md)
+* [Items Configuration](./zweed/items.md)
 * [Configuration](./zweed/configuration.md)
 
 #### Bridge System
