@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [👋 Welcome](README.md)
 * [🌿 zWeed](zweed/introduction.md)
