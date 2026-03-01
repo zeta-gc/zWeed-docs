@@ -4,7 +4,7 @@ Welcome to the documentation portal for Zeta Development scripts. Here you can f
 
 ## Our Scripts
 
-* [zWeed](zweed/introduction.md) — Advanced weed growing and processing system.
+* [zWeed](./zweed/introduction.md) — Advanced weed growing and processing system.
 * [Next Script Coming Soon](#)
 
 ---
