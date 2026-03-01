@@ -38,4 +38,4 @@ bridge/
 
 ## Creating a Custom Bridge
 
-See the [Developer Guide](developer-guide.md) for step-by-step instructions on creating custom adapters.
+See the [Developer Guide](../developer-guide.md) for step-by-step instructions on creating custom adapters.
